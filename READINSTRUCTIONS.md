@@ -8,7 +8,7 @@ Put this in the terminal of your python project:
 
 After you have done that step then copy and paste the code into your code editor from main.py
 
-If you need any help go to the wiki page but if that does not help then write it in the issues section.
+If you need any help or have issues write it in the issues section.
 
 Feel free to change anything with the code
 
